@@ -55,7 +55,7 @@ This system provides value by:
 **Downloading the Project**
 (*on a Mac or Linux machine*)
 1. `git clone https://github.com/OpenTechies/Agri-Cloud-back-end.git` clone the repo to your local machine.  
-2. You can ask a naibtainer (barakadan421@gmail.com) for permission to make a branch on this repo.  
+2. You can ask a maintainer (barakadan421@gmail.com) for permission to make a branch on this repo.  
 3. You can also [create a fork on GitHub](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and make a pull request from the fork.  
 
 **Ruby**
